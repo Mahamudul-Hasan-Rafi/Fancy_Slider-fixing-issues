@@ -1,2 +1,2 @@
 ## Making Fancy Slider fancier by fixing-issues and adding new features
-Programming Hero: Assignment 6
+Site Link: https://mahamudul-hasan-rafi.github.io/Fancy_Slider-fixing-issues/
